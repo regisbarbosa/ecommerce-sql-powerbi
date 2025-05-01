@@ -8,19 +8,16 @@ Este projeto simula um cenário de e-commerce com dados fictícios para praticar
 - DAX
 
 ## 📁 Estrutura
+📂 sql
 
-📂 sql 
-├── create_tables.sql # Criação das tabelas 
-├── insert_data.sql # Inserção de clientes e produtos 
-├── generate_sales.sql # Geração de 100 vendas aleatórias 
-├── views.sql # Views de análise para conectar ao Power BI
+- [`create_tables.sql`](./sql/create_tables.sql) — Criação das tabelas  
+- [`insert_data.sql`](./sql/insert_data.sql) — Inserção de clientes e produtos  
+- [`generate_sales.sql`](./sql/generate_sales.sql) — Geração de 100 vendas aleatórias  
+- [`views.sql`](./sql/views.sql) — Views de análise para conectar ao Power BI  
 
-create_tables.sql # Criação das tabelas 
-insert_data.sql # Inserção de clientes e produtos 
-generate_sales.sql # Geração de 100 vendas aleatórias 
-views.sql # Views de análise para conectar ao Power BI
 
-📂 powerbi └── dashboard.pbix # Dashboard com insights de vendas
+📂 powerbi 
+  - [`dashboard.pbix`](./powerbi/dashboard.pbix) — Dashboard com insights de vendas
 
 ## 📌 Objetivo
 - Criar um mini banco de dados relacional simulado
