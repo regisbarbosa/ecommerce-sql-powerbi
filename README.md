@@ -15,6 +15,11 @@ Este projeto simula um cenário de e-commerce com dados fictícios para praticar
 ├── generate_sales.sql # Geração de 100 vendas aleatórias 
 ├── views.sql # Views de análise para conectar ao Power BI
 
+create_tables.sql # Criação das tabelas 
+insert_data.sql # Inserção de clientes e produtos 
+generate_sales.sql # Geração de 100 vendas aleatórias 
+views.sql # Views de análise para conectar ao Power BI
+
 📂 powerbi └── dashboard.pbix # Dashboard com insights de vendas
 
 ## 📌 Objetivo
