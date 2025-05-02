@@ -19,10 +19,9 @@ Este projeto simula um cenário de e-commerce com dados fictícios para praticar
   - [`dashboard.pbix`](./powerbi/dashboard.pbix) — Dashboard com insights de vendas # em construção
 
 ## 📌 Objetivo
-- Criar um mini banco de dados relacional simulado
+- Criar um banco de dados relacional simulado
 - Usar consultas SQL para gerar análises reais (via Views)
 - Conectar essas análises ao Power BI
-- Demonstrar domínio de SQL + BI no portfólio
 
 ## 📈 Análises incluídas
 - Receita mensal
